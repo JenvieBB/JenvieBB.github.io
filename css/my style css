@@ -1,0 +1,98 @@
+.bg-primary{
+    background-color: rgb(14, 198, 244) !important;
+    background-image: url(/S__75964471.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+div.cb1{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color:rgba(117, 106, 183, 0.701);
+    color: rgb(74, 85, 210);
+    text-align: center;
+    font-size: 40px;
+    border: 5px dashed;
+    border-color:rgb(29, 36, 110);
+    border-radius: 10px;
+    margin: 30px;
+
+
+
+}
+.Jenvie{
+    width: 35%;
+    margin: 20px;
+}
+
+.cb2{
+    font-family: sans-serif;
+    color:rgb(75, 132, 176);
+}
+
+.hu{
+    font-size: 40px;
+}
+
+p{
+    text-indent: 20px;
+}
+
+body {
+    font-family: 'Noto Sans TC', sans-serif;
+    }
+    h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+
+    font-family: 'Noto Sans TC', sans-serif;
+    }
+    p {
+        font-family: 'Noto Serif TC',sans-serif;
+    }
+
+.expedu_icon{
+    color:rgb(37, 150, 210)
+}
+
+.expedu_icon:hover{
+    color:rgb(19, 70, 251)
+}
+
+table.wentable{
+    width: 80%;
+    background-color: rgb(75, 75, 142);
+
+}
+table.wentable th{
+    text-align: center;
+    color: rgb(114, 95, 208);
+
+    border: 1px solid rgb(118, 150, 230)
+
+}
+table.wentable td{
+    text-align: center;
+    background-color: rgb(106, 91, 177);
+    color: rgba(188, 143, 143, 0.7);
+    border: 1px solid peachpuff;
+    border-collapse: collapse;
+
+
+}
+.resume-section-content p{
+    font: size 50spx;
+}
+.resume-section-content img{
+    width: 30%;
+}
+.馬禛 Ma-Jen  {
+    background-color: skyblue;
+    color: black;
+    border-color: cornflowerblue;
+    border-radius: 15px; /* Overwrites previous border-radius */
+    border: solid; /* This line should be placed before border-color */
+    margin: 30px auto;
+    height: 300px;
+    overflow: scroll;
+}
